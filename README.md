@@ -2,6 +2,8 @@
 
 ## Description
 
+Course materials for Jetbot course
+
 ## Part 1
 
 ## Part 2
