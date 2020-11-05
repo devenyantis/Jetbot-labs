@@ -4,12 +4,12 @@
 
 Course materials for Jetbot course
 
-## Part 1
+## Part 1: Baic Motion
 
-## Part 2
+## Part 2: Road Following
 
-## Part 3
+## Part 3: Collision Avoidance
 
-## Part 4
+## Part 4: Road Following + Collision Avoidance
 
 ## Reference
