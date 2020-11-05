@@ -4,7 +4,7 @@
 
 Course materials for Jetbot course
 
-## Part 1: Baic Motion
+## Part 1: Basic Motion
 
 ## Part 2: Road Following
 
