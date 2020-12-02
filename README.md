@@ -10,4 +10,5 @@ Jetbot-labs related scripts have been tested on SD image "jetbot_JP4.3_JL1.24_PT
 
 ## Reference
 
+Hardware is using third party Waveshare Jetbot Kit
 Sources: https://github.com/NVIDIA-AI-IOT/jetbot
