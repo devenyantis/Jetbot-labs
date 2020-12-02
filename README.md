@@ -2,6 +2,7 @@
 
 ## Description
 
-Course materials for Jetbot course
+This is the offical hands-on repo for the Jetbot course material
 
 ## Reference
+
