@@ -2,7 +2,7 @@
 
 ## Description
 
-Course materials for Jetbot course
+Official hands-on course materials for Jetbot course
 
 ## Part 1: Basic Motion
 
