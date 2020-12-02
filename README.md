@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the offical hands-on repo for the Jetbot course material
+This is the offical hands-on repository for the Jetbot course material
 
 ## Reference
 
