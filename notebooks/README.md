@@ -21,8 +21,8 @@ In this example we will train the Jetbot to follow a line. The following steps a
 
 In this example we will train the Jetbot to avoid collisions in a variety of scenarios. The following steps are required:
 
-**Data Collection** - We collect image classification dataset which will allow the Jetbot to identify whether the road is blocked or free.
-**Train the model** - We perform model training by using an AI classifier to prevent the Jetbot from entering into dangeroud territory.
+**Data Collection** - We collect image classification dataset which will allow the Jetbot to identify whether the road is blocked or free.  
+**Train the model** - We perform model training by using an AI classifier to prevent the Jetbot from entering into dangeroud territory.  
 **Optimizing the model** - We optimize our trained model using TensorRT for better performance on the Jetson Nano.  
 **Live demo** - Finally, we run the collision avoidance live inference on the Jetbot.
 
